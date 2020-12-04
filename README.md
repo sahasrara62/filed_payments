@@ -41,7 +41,10 @@ run the following command to do so.
     
    2. cd `filed_payments`
    3. run command `pipenv install`
-   4. run command to run the flask server `flask run`
+   4. run to go in virtual environment, inside the project run command `pipenv shell`
+   5. run command to run the flask server `flask run`
+   6. To exit server run `ctrl+c`
+   7. To exit the virtual env run command in terminal `deactivate`
    
  ## How to test the application
  
