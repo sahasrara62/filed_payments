@@ -5,7 +5,7 @@ from application.services.payment import Card, ExternalPayment
 blueprint = Blueprint("views", __name__, url_prefix="/")
 
 
-@blueprint.route("/ProcessPayment", methods=['POST', 'GET'])
+@blueprint.route("/ProcessPayment", methods=['POST'])
 def payment():
 
 	if request.method == 'POST':
