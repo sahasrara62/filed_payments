@@ -20,6 +20,9 @@ Jinja2 = "==2.11.2"
 MarkupSafe = "==1.1.1"
 Werkzeug = "==1.0.1"
 environs = "*"
+requests = "*"
+webtest = "*"
+environ = "*"
 
 [requires]
 python_version = "3.8"
