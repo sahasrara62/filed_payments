@@ -51,7 +51,8 @@ run the following command to do so.
  
    1. run the server first using above step
    2. in seperate terminal, run `cd application/test` ie go to test folder
-   3. run comands: `pytest test_external_payment.py`
+   3. Activate python environment, `pipenv shell`
+   4. run comands: `pytest test_external_payment.py`
    
  ### Shortcoming OR consideration 
  
