@@ -8,7 +8,7 @@ Coding exercise:
 Write a Flask Web API with only 1 method called “ProcessPayment” that receives a request like this
 
     -CreditCardNumber(mandatory, string, it should be a valid credit card number)
-    -CardHolder`: (mandatory, string)
+    -CardHolder (mandatory, string)
     -ExpirationDate (mandatory, DateTime, it cannot be in the past)
     -SecurityCode (optional, string, 3 digits)
     -Amount (mandatoy decimal, positive amount)
@@ -61,5 +61,4 @@ run the following command to do so.
  
  ### Note
  
- if you find this project help you to create the assignment in anyway, please fork or click on watch this project
- i will be really happy :D. 
+ if you find this project help you to create the assignment in anyway, please fork or click on watch this project.
