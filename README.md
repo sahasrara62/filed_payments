@@ -62,3 +62,5 @@ run the following command to do so.
  ### Note
  
  if you find this project help you to create the assignment in anyway, please fork or click on watch this project.
+
+Filed people are crooked and shit people. Better to have a proper job from big tech giants.
