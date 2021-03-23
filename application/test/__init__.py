@@ -7,7 +7,6 @@ from webtest import TestApp
 from application.app import create_app
 
 
-
 @pytest.fixture
 def app():
     """Create application for the tests."""
@@ -18,6 +17,7 @@ def app():
     yield _app
 
     ctx.pop()
+
 
 @pytest.fixture
 def testapp(app):
